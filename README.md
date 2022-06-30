@@ -10,9 +10,9 @@ hello there &#128512; &#128151;
   GET /desc/bachehe/${kox}
 ```
 
-|  Like to do  |   Type     |        Description        |
-| :--------    | :-------   | :-------------------------|
-| Games/apps   | horror/any | where you go BOO/ ecom-any|
+|  Like to do  |   Type     |        Description         |
+| :--------    | :-------   | :------------------------- |
+| Games/apps   | horror/any | where it goes BOO/ ecom-any|
 
 ```https
   GET /exp/e80/${like}
