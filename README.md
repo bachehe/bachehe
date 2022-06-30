@@ -1,16 +1,27 @@
-### Hi there 👋
+| Name             |  Type  |     Description       |
+| :----------------|:-------| :---------------------|
+| Damian Bachowski |  Male  | Junior .NET developer |
 
-<!--
-**bachehe/bachehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Get item
 
-Here are some ideas to get you started:
+```https
+  GET /desc/bachehe/${kox}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  Like to do  |   Type     |        Description        |
+| :--------    | :-------   | :-------------------------|
+| Games/apps   | horror/any | where you go BOO/ ecom-any|
+
+```https
+  GET /exp/e80/${like}
+```
+|  Experience |   Time     |   Description   |
+| :--------   | :-------   | :---------------|
+|  Elettric80 |  02/2022   |  .NET/SQL stuff |
+
+```https
+  GET /edu/agh/${engineer}
+```
+|  School |   Time       |   Title   |
+| :------ | :-------     | :---------|
+|  AGH    |  2019-2023   |  Engineer |
