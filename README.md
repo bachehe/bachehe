@@ -17,9 +17,9 @@ hello there &#128512; &#128151;
 ```https
   GET /exp/e80/${like}
 ```
-|  Experience |   Time     |   Description   |
-| :--------   | :-------   | :---------------|
-|  Elettric80 |  02/2022   |  .NET/SQL stuff |
+|  Experience |     Time     |   Description   |
+| :--------   | :----------- | :---------------|
+|  Elettric80 |  02/2022-now |  .NET/SQL stuff |
 
 ```https
   GET /edu/agh/${engineer}
